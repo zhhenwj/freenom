@@ -64,6 +64,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 - 对所有邮件启用 POP 
 - 启用 IMAP
 
+
 ![gmail配置01](https://s2.ax1x.com/2020/01/31/13tKsg.png "gmail配置01")
 
 然后保存更改。
